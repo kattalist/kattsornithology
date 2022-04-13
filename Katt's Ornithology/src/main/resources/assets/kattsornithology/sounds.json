@@ -1,0 +1,29 @@
+{
+	"entity.songbird.bluebird.ambient": {
+		"sounds": [
+			"kattsornithology:bluebird_ambient"
+		],
+		"subtitle": "Songbird tweets"
+	},
+	
+	"entity.songbird.chickadee.ambient": {
+		"sounds": [
+			"kattsornithology:chickadee_ambient"
+		],
+		"subtitle": "Songbird tweets"
+	},
+	
+	"entity.songbird.goldfinch.ambient": {
+		"sounds": [
+			"kattsornithology:goldfinch_ambient"
+		],
+		"subtitle": "Songbird tweets"
+	},
+	
+	"entity.songbird.oriole.ambient": {
+		"sounds": [
+			"kattsornithology:oriole_ambient"
+		],
+		"subtitle": "Songbird tweets"
+	}
+}

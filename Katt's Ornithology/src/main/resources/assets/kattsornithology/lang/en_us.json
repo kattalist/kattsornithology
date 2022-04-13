@@ -1,0 +1,15 @@
+{
+	"entity.kattsornithology.songbird": "Songbird",
+	"entity.kattsornithology.hummingbird": "Hummingbird",
+	"entity.kattsornithology.toucan": "Toucan",
+	
+	"block.kattsornithology.aeronauts_table": "Aeronaut's Table",
+	
+	"item.kattsornithology.wingsuit": "Wingsuit",
+	
+	"item.kattsornithology.songbird_feather": "Songbird Feather",
+	"item.kattsornithology.toucan_feather": "Toucan Feather",
+	"item.kattsornithology.hummingbird_feather": "Hummingbird Feather",
+	
+	"container.kattsornithology.aeronauts_table": "Aeronaut's Table"
+}

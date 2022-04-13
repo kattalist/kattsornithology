@@ -1,0 +1,26 @@
+modLoader="javafml" 
+loaderVersion="[37,)"
+license="MIT"
+
+[[mods]]
+
+modId="kattsornithology" 
+
+version="1.0" 
+
+displayName="Katt's Ornithology"
+
+logoFile="logo.png"
+
+credits="" #optional
+
+authors="kattalist"
+
+description='''
+Take to the skies with Katt's Ornithology!
+
+Craft an Aeronaut's Table and grant your elytra enchanced powers and special abilities. Explore the world and catalog dozens of new birds in your Avian Atlas. Use an Incubator to hatch a variety of feathery friends with new abilities and traits. 
+
+Conquer the air in a way you never have before!
+'''
+
